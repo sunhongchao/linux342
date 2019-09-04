@@ -1,0 +1,1 @@
+{"SOUND_VAL":60,"SCREEN_LIGHT":60,"SPEAKER":"zhilingf","sites":[ "tengxu", "baidu", "Taobao" ],"size":[10,20,30]}
