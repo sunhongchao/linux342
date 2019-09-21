@@ -1,0 +1,9 @@
+pthread_creat目录：
+龟兔赛跑例子
+pthread_creat0:线程创建，线程参数为整型
+pthread_creat1:线程创建，线程参数为结构体
+pthread_exit目录：
+phtread_exit0:通过pthread_join获取线程退出的参数.方法1
+phtread_exit1:通过pthread_join获取线程退出的参数.方法2
+phtread_exit2:通过pthread_join获取线程退出的参数，参数是结构体
+phtread_exit3:龟兔赛跑使用pthread_join

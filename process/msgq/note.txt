@@ -1,0 +1,11 @@
+book@book-desktop:~/chao/linuxapp/charpter15/msgq$ ./msgsend 10
+key:10
+msq id:0
+msg total:5
+book@book-desktop:~/chao/linuxapp/charpter15/msgq$ ./msgrecv 10 0
+msg id:0
+type:4 start: 4 end: 400
+book@book-desktop:~/chao/linuxapp/charpter15/msgq$ ./msgrecv 10 6
+msg id:0
+type:6 start: 6 end: 600
+
